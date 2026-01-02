@@ -3,7 +3,7 @@ import numpy as np
 import random
 import uuid
 
-ROWS = 650_000
+ROWS = 350000
 USERS = 80_000
 
 def generate_dataset(file_name, laundering=True):
